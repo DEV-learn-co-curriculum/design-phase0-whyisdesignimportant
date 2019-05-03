@@ -2,8 +2,7 @@
 > ## It takes twenty years to build a reputation and five minutes to ruin it.
 > – Warren Buffet, CEO of Berkshire Hathaway.
 
- 
-Imagine you're the CEO of a company. You're sitting in your 35th-story corner office, awaiting the impending launch of your first product. You know your clever marketing will help you put up massive sales numbers, and you anticipate many investors will be interested in capitalizing on your company. OK, so maybe you cut some corners and didn't use designers in your production process, but who needs those anyways, right? 
+<br>Imagine you're the CEO of a company. You're sitting in your 35th-story corner office, awaiting the impending launch of your first product. You know your clever marketing will help you put up massive sales numbers, and you anticipate many investors will be interested in capitalizing on your company. OK, so maybe you cut some corners and didn't use designers in your production process, but who needs those anyways, right? 
 
 Wrong. Your product does indeed fly off the shelves thanks to your marketing team, but once people get the product home and out of the box, they realize its poor design. Users become frustrated because the product doesn't actually solve for the problem it advertises itself to. Upset, they try to get in touch with your company, but the website lacks proper navigation and confuses them. Now, you've got hundreds of thousands of customers writing negative reviews about your company and its product. 
 
