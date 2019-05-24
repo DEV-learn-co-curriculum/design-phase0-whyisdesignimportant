@@ -10,7 +10,7 @@ Good thing you're not actually that misguided CEO. As Warren Buffet once said, "
 
 
 # Articles 
-<hr color="#d7d7d7">
+<hr color="#eaecef" border="none">
 ## [Take it from an expert: design is more important than ever](https://www.wired.com/2015/03/take-expert-design-important-ever/)
 by [Margaret Rhodes](https://www.kaleighflynn.com/) of [Fast Company](https://www.fastcompany.com/) (5 min read)<br>We've been saying it for a while and now John Maeda has delivered the data to prove it: Design is more integral to good business than ever before. Maeda himself is further proof of the trend; last year he left his post as president of Rhode Island School of Design to be a design partner at Kleiner Perkins Caufield & Byers. [Read more](https://www.wired.com/2015/03/take-expert-design-important-ever/)
 
