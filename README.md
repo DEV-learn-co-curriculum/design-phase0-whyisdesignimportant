@@ -10,7 +10,7 @@ Good thing you're not actually that misguided CEO. As Warren Buffet once said, "
 
 
 # Articles 
-<hr>
+<hr color="#d7d7d7">
 ## [Take it from an expert: design is more important than ever](https://www.wired.com/2015/03/take-expert-design-important-ever/)
 by [Margaret Rhodes](https://www.kaleighflynn.com/) of [Fast Company](https://www.fastcompany.com/) (5 min read)<br>We've been saying it for a while and now John Maeda has delivered the data to prove it: Design is more integral to good business than ever before. Maeda himself is further proof of the trend; last year he left his post as president of Rhode Island School of Design to be a design partner at Kleiner Perkins Caufield & Byers. [Read more](https://www.wired.com/2015/03/take-expert-design-important-ever/)
 
@@ -26,7 +26,7 @@ by Mary Stribley (15 min read)<br>Recently, we started asking businesses how muc
 
 
 # Videos 
-<hr>
+<hr color="#d7d7d7">
 ## [The world is poorly designed. But copying nature helps.](https://www.youtube.com/watch?v=iMtXqTmfta0)
 (5 min) Biomimicry design, explained with 99% Invisible. Hear about the Biomimicry Institute, a non-profit encouraging creators to discover how big challenges in design, engineering, and sustainability have often already been solved through 3.8 billion years of evolution on earth. We just have to go out and find them. <br><br>
 <a href="https://www.youtube.com/watch?v=iMtXqTmfta0"><img src="https://img.youtube.com/vi/iMtXqTmfta0/0.jpg" width="420"></a>
